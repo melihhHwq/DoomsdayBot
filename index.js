@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Sonuçları izliyor.."];
+const statusMessages = ["Playing Doomsday Client"];
 
 
 let currentIndex = 0;
